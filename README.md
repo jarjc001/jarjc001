@@ -2,8 +2,8 @@
 
 💬 About Me:
 I'm a physics graduate from the University of Bath. 
-I have a great passion for science and technology and am keen to start a carrer in software development.
-Here is a space to show the projects I have done.
+I have a great passion for science and technology.
+Here is a space to show the projects I have done and am working on.
 
 😄 Pronouns: 
 He/Him
