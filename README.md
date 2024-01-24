@@ -13,7 +13,7 @@ A full stack social media app using Java, SQL and Spring Boot.
 
 [![Linkedin Badge](https://img.shields.io/badge/-jarjatc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarjatc/)](www.linkedin.com/in/jarjatc/)
 [![Instagram Badge](https://img.shields.io/badge/-thekrikri99-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/thekrikri99/)](https://www.instagram.com/thekrikri99/)
-[![Gmail Badge](https://img.shields.io/badge/-jarjatc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jarjatc@gmail.com)](jarjatc@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jarjatc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jarjatc@gmail.com)](mailto:jarjatc@gmail.com)
 
 ## ⚡ Technologies
 
