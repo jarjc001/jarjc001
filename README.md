@@ -1,7 +1,7 @@
 ## Hi, I'm Christian 👋 !
 
 💬 About Me:
-I'm a physics graduate from the University of Bath. 
+I'm a physics graduate from the [University of Bath](https://www.bath.ac.uk/). 
 I have a great passion for science and technology.
 Here is a space to show the projects I have done and am working on.
 
