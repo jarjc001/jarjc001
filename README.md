@@ -9,7 +9,7 @@ Here is a space to show the projects I have done and am working on.
 He/Him
 
 🔭 I’m currently working on:
-A full stack app based on a stripped-down twitter using Java, SQL and Frontend tools.
+A full stack social media app using Java, SQL and Spring Boot.
 
 📫 How to reach me:
 LinkedIn: www.linkedin.com/in/christian-jarjat
