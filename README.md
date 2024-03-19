@@ -1,6 +1,7 @@
 ## Hi, I'm Christian 👋 !
 
 💬 About Me:
+
 I'm a physics graduate from the [University of Bath](https://www.bath.ac.uk/). 
 I have a great passion for science and technology.
 Here is a space to show the projects I have done and am working on.
@@ -9,6 +10,7 @@ Here is a space to show the projects I have done and am working on.
 He/Him
 
 🔭 I’m currently working on:
+
 A full stack social media app using Java, SQL and Spring Boot.
 
 [![Linkedin Badge](https://img.shields.io/badge/-jarjatc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarjatc/)](www.linkedin.com/in/jarjatc/)
