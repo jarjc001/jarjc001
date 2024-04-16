@@ -11,7 +11,7 @@ He/Him
 
 🔭 I’m currently working on:
 
-A full stack social media app using Java, SQL and Spring Boot.
+A full stack social media app using Java, SQL and Spring Boot.     
 A ETL data pipeline and data analysis of Pokémon using the PokeAPI
 
 [![Linkedin Badge](https://img.shields.io/badge/-jarjatc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarjatc/)](www.linkedin.com/in/jarjatc/)
